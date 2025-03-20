@@ -2,6 +2,6 @@
 
 # 欢迎访问ZZS开源文档站点
 
-* [Issacgym文档](./legged_gym/index.html)
+* [Issacgym文档](https://zzzzzzs.github.io/legged_gym/index.html)
 
-* [CtrlZ文档](./CtrlZ/index.html)
+* [CtrlZ文档](https://zzzzzzs.github.io/CtrlZ/index.html)
